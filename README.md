@@ -1,0 +1,2 @@
+# lapse_analysis_DecisionTreeClassifier
+某APP数据的流失flag分析;决策树的建立、评估与优化
